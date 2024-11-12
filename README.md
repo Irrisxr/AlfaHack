@@ -35,4 +35,5 @@
 ### Предобработка данных и отбор признаков
   ... 
 ### Построение модели
-  ![image](https://github.com/user-attachments/assets/a2139016-7822-46b2-a279-9afec2b7e203)
+![image](https://github.com/user-attachments/assets/1f004f57-3a5f-4905-82d1-6c950e729e17)
+

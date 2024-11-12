@@ -37,3 +37,5 @@
 ### Построение модели
 ![image](https://github.com/user-attachments/assets/1f004f57-3a5f-4905-82d1-6c950e729e17)
 
+<img width="16384" alt="ALFA HACK" src="https://github.com/user-attachments/assets/ab2a651f-5215-4305-9e73-58cdd9d6d3b6">
+

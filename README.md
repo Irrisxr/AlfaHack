@@ -32,10 +32,10 @@
 
 ## Решение
 - Rawdata.parquet - файл с объеденёнными train файлами.
-- features.json из файла берутся категориальные признаки.
-- ultra_mega_last_features.json итоговый набор признаков.
-- Feature_Selection.ipynb отбор признаков.
-- Building_models.ipynb построение моделей.
+- features.json из файла - берутся категориальные признаки.
+- ultra_mega_last_features.json - итоговый набор признаков.
+- Feature_Selection.ipynb - отбор признаков.
+- Building_models.ipynb - построение моделей.
 
 ### Предобработка данных и отбор признаков.
 1. Обор признаков через feature_selection из Библиотеки CatBoost. Взяли топ 200.

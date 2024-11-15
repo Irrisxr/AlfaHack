@@ -32,7 +32,7 @@
 
 ## Решение
 - Rawdata.parquet - файл с объеденёнными train файлами.
-- features.json из файла - берутся категориальные признаки.
+- features_with_logit/features.json из файла - берутся категориальные признаки.
 - ultra_mega_last_features.json - итоговый набор признаков.
 - Feature_Selection.ipynb - отбор признаков.
 - Building_models.ipynb - построение моделей.

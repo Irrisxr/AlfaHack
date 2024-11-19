@@ -1,6 +1,6 @@
 # AlfaHack
 
-####Результат:
+### Результат:
 
 ![image](https://github.com/user-attachments/assets/f516f513-e7af-4c62-a1b5-03ab278f3534)
 

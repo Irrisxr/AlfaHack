@@ -1,8 +1,8 @@
 # AlfaHack
 
-### Результат:
-
-![image](https://github.com/user-attachments/assets/f516f513-e7af-4c62-a1b5-03ab278f3534)
+#### Результат:
+Место в LB - 1
+ROC AUC - 86.280934
 
 #### Команда DRUJBA:
 **TeamLead:** Александр Олейников
